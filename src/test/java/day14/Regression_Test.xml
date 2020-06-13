@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Suitr">
+    <test name="Regression Test" preserve-order="true">
+
+        <classes>
+            <class name="MethodPractice_1.Metlife_Abstract_Log"/>
+        </classes>
+
+    </test>
+</suite>
