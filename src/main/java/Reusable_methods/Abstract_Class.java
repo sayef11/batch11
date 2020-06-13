@@ -17,7 +17,7 @@ public class Abstract_Class {
     public static WebDriver driver;
     public static ExtentReports reports;
     public static ExtentTest logger;
-
+//new changes for them
 //mmmoy
     @BeforeSuite
     public void defineDriver() throws IOException, InterruptedException, BiffException {
